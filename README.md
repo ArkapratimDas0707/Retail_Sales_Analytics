@@ -29,15 +29,13 @@ Statistical Modeling: Employs control store comparisons and machine learning tec
 Clone the repository:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/ArkapratimDas0707/Retail_Sales_Analytics.git
 cd Retail_Sales_Analytics
 Install dependencies:
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run analyses:
 
