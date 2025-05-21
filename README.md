@@ -1,7 +1,9 @@
 🛒 Retail Sales Analytics
+
 This end-to-end analytics project evaluates the impact of a store layout trial on potato chips sales across a supermarket chain. It encompasses data preprocessing, exploratory analysis, statistical modeling, and interactive dashboard creation to assess sales uplift and provide real-time KPI monitoring.
 
 📁 Project Structure
+
 Data/: Contains raw and processed datasets.
 
 ETL/: Scripts for data extraction, transformation, and loading.
@@ -15,6 +17,7 @@ Sales.pdf: Comprehensive report summarizing findings and recommendations.
 requirements.txt: List of Python dependencies.
 
 📊 Key Features
+
 Trial Impact Assessment: Analyzes sales data to determine the effectiveness of the new store layout.
 
 Interactive Dashboard: Provides real-time visualization of key performance indicators.
@@ -22,6 +25,7 @@ Interactive Dashboard: Provides real-time visualization of key performance indic
 Statistical Modeling: Employs control store comparisons and machine learning techniques to validate findings.
 
 🚀 Getting Started
+
 Clone the repository:
 
 bash
