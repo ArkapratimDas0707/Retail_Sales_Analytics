@@ -20,7 +20,7 @@ requirements.txt: List of Python dependencies.
 
 Trial Impact Assessment: Analyzes sales data to determine the effectiveness of the new store layout.
 
-Interactive Dashboard: Provides real-time visualization of key performance indicators.
+Interactive Dashboard: Provides visualization of key performance indicators.
 
 Statistical Modeling: Employs control store comparisons and machine learning techniques to validate findings.
 
@@ -43,3 +43,4 @@ Navigate to the Notebook/ directory and open the Jupyter notebooks to explore th
 
 📈 Results
 The analysis revealed a measurable uplift in potato chips sales in stores with the new layout compared to control stores. The interactive dashboard facilitates ongoing monitoring and supports data-driven decision-making.
+
